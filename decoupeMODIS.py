@@ -20,6 +20,8 @@ for directory in dirlist:
 		liste = open(filePath, "a")
 		liste.write(ascFileName)
 
+		# Une ligne de commentaire
+
 
 
 
